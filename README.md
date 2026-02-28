@@ -29,10 +29,53 @@ It displays personal and professional details in a clean, structured, and readab
 ---
 
 ## 🚀 How To Run Locally
-1. Download or clone the repository:
 
-   ```bash
-   https://github.com/Mufaiz21/resume-website.git
-   
-   
+1. Open the GitHub repository.
 
+2. Click on the green **Code** button → **Download ZIP**.
+
+3. Extract the ZIP file.
+
+4. Open the folder and double-click `index.html` to view the website.
+
+---
+
+## 🌐 Live Demo
+
+👉 **Live Website:**  
+https://mufaiz21.github.io/resume-website/
+
+---
+
+## 📸 Screenshots
+
+### Desktop View
+![Desktop View](screenshots/desktop-view.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile-view.png)
+
+---
+
+## 📂 Project Structure
+   
+resume-website/
+│
+├── index.html
+├── README.md
+└── screenshots/
+├── desktop-view.png
+└── mobile-view.png
+
+---
+
+## 👨‍🎓 Author
+
+**Mufaiz Bashir**  
+Full Stack Developer | Web Designer | Tech Enthusiast  
+
+---
+
+## 📄 License
+
+This project is created for educational and assignment purposes only.
