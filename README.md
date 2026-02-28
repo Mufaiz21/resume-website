@@ -32,5 +32,7 @@ It displays personal and professional details in a clean, structured, and readab
 1. Download or clone the repository:
 
    ```bash
+   https://github.com/Mufaiz21/resume-website.git
+   
    
 
